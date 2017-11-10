@@ -1,0 +1,23 @@
+<!doctype html>
+<!--Gebaseerd op https://bl.ocks.org/mbostock/3884955 door Mike Bostock-->
+<meta charset=utf8>
+<!--favicon error-->
+<link rel="shortcut icon" type=image/x-icon href=data:image/x-icon;,>
+<title>Project Information Design</title>
+<link rel=stylesheet href=index.css>
+<meta content=width=device-width,initial-scale=1 name=viewport>
+<header>
+    <h1>De muziek van 2017 op Spotify</h1>
+</header>
+<body>
+    <h2>De top 10 wereldwijd</h2>
+    <p>Gebaseerd op data van Spotify, deze datavisualisatie weergeeft de top hits op spotify van de afgelopen tien weken in het jaar 2017 (31 Aug 2017 - 02 Nov 2017). Deze grafiek weergeeft hoe er wereldwijd naar muziek geluisterd word en geeft het inzicht hoe de hits in de top tien verschijnen of eruit vallen. In het tweede deel bekijk ik de verschillen per land.</p>
+    <svg width=875 height=450 viewbox="0 0 960 450"></svg>
+    <h2>De top 3 per land</h2>
+    <p>Wereldwijd staat rockstar, Havana, New Rules in de top drie van alle hits in de afgelopen tien weken. Om deze data per land te vergelijken is er een kleine selectie gemaakt van landen uit Amerika, Europe en Azië.</p>
+    <div id="top3"></div>
+    <div id="landen"></div>
+    <div id="graph"></div>
+    <script src=https://d3js.org/d3.v4.min.js></script>
+    <script src=index.js></script>
+</body>

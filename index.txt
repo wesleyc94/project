@@ -1,0 +1,103 @@
+Position,"Track Name",Artist,Streams,URL
+1,20171102,10,rockstar,"Post Malone",42953918,https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+2,20171102,10,Havana,"Camila Cabello",31698582,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+3,20171102,10,"New Rules","Dua Lipa",26127050,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+4,20171102,10,Wolves,"Selena Gomez",22975485,https://open.spotify.com/track/7EmGUiUaOSGDnUUQUDrOXC
+5,20171102,10,"What Lovers Do (feat. SZA)","Maroon 5",22121324,https://open.spotify.com/track/4mxWSdf71VFO52qFeY0fZt
+6,20171102,10,"Dusk Till Dawn - Radio Edit",ZAYN,22084551,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+7,20171102,10,Perfect,"Ed Sheeran",20839614,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+8,20171102,10,"Too Good At Goodbyes - Edit","Sam Smith",20625889,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+9,20171102,10,Silence,Marshmello,20339368,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+10,20171102,10,1-800-273-8255,Logic,18413238,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+1,20171026,9,rockstar,"Post Malone",45887403,https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+2,20171026,9,Havana,"Camila Cabello",27090154,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+3,20171026,9,"New Rules","Dua Lipa",25584637,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+6,20171026,9,"Dusk Till Dawn - Radio Edit",ZAYN,22579858,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+8,20171026,9,"Too Good At Goodbyes - Edit","Sam Smith",21574159,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+5,20171026,9,"What Lovers Do (feat. SZA)","Maroon 5",21034068,https://open.spotify.com/track/4mxWSdf71VFO52qFeY0fZt
+7,20171026,9,Perfect,"Ed Sheeran",20481784,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+10,20171026,9,1-800-273-8255,Logic,20032572,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+9,20171026,9,Silence,Marshmello,19438793,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+11,20171102,9,"I Fall Apart","Post Malone",17129238,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh
+11,20171026,8,"I Fall Apart","Post Malone",17129237,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh
+1,20171019,8,rockstar,"Post Malone",46995997,https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+3,20171019,8,"New Rules","Dua Lipa",25572090,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+2,20171019,8,Havana,"Camila Cabello",24163050,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+6,20171019,8,"Dusk Till Dawn - Radio Edit",ZAYN,22264547,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+8,20171019,8,"Too Good At Goodbyes - Edit","Sam Smith",22121442,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+10,20171019,8,1-800-273-8255,Logic,20983737,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+5,20171019,8,"What Lovers Do (feat. SZA)","Maroon 5",19996472,https://open.spotify.com/track/4mxWSdf71VFO52qFeY0fZt
+7,20171019,8,Perfect,"Ed Sheeran",19573203,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+9,20171019,8,Silence,Marshmello,19345893,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+12,20171019,8,"Mi Gente","J Balvin",17275021,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+1,20171012,7,rockstar,"Post Malone",45176611,https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+3,20171012,7,"New Rules","Dua Lipa",25035207,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+8,20171012,7,"Too Good At Goodbyes - Edit","Sam Smith",23400162,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+6,20171012,7,"Dusk Till Dawn - Radio Edit",ZAYN,22568652,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+2,20171012,7,Havana,"Camila Cabello",22032273,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+10,20171012,7,1-800-273-8255,Logic,21168832,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+5,20171012,7,"What Lovers Do (feat. SZA)","Maroon 5",19275651,https://open.spotify.com/track/4mxWSdf71VFO52qFeY0fZt
+9,20171012,7,Silence,Marshmello,18862800,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+12,20171012,7,"Mi Gente","J Balvin",18509169,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+7,20171012,7,Perfect,"Ed Sheeran",18075233,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+1,20171005,6,rockstar,"Post Malone",46473893,https://open.spotify.com/track/1OmcAT5Y8eg5bUPv9qJT4R
+3,20171005,6,"New Rules","Dua Lipa",25621918,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+8,20171005,6,"Too Good At Goodbyes - Edit","Sam Smith",23507492,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+6,20171005,6,"Dusk Till Dawn - Radio Edit",ZAYN,22376234,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+2,20171005,6,Havana,"Camila Cabello",22283674,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+10,20171005,6,1-800-273-8255,Logic,21783372,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+12,20171005,6,"Mi Gente","J Balvin",20801982,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+9,20171005,6,Silence,Marshmello,19209349,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+13,20171005,6,Look What You Made Me Do","Taylor Swift",18869856,https://open.spotify.com/track/6uFsE1JgZ20EXyU0JQZbUR
+14,20171005,6,"Sorry Not Sorry","Demi Lovato",18254587,https://open.spotify.com/track/3m660poUr1chesgkkjQM7P
+1,20170928,5,rockstar,"Post Malone",46918992,https://open.spotify.com/track/1OmcAT5Y8eg5bUPv9qJT4R
+12,20170928,5,"Mi Gente","J Balvin",26596772,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+8,20170928,5,"Too Good At Goodbyes - Edit","Sam Smith",26268442,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+3,20170928,5,"New Rules","Dua Lipa",25782603,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+10,20170928,5,1-800-273-8255,Logic,23171275,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+6,20170928,5,"Dusk Till Dawn - Radio Edit",ZAYN,22532430,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+13,20170928,5,"Look What You Made Me Do","Taylor Swift",21610813,https://open.spotify.com/track/6uFsE1JgZ20EXyU0JQZbUR
+2,20170928,5,Havana,"Camila Cabello",21315604,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+9,20170928,5,Silence,Marshmello,20207453,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+5,20170928,5,"What Lovers Do (feat. SZA)","Maroon 5",19278180,https://open.spotify.com/track/4mxWSdf71VFO52qFeY0fZt
+1,20170921,4,rockstar,"Post Malone",35821535,https://open.spotify.com/track/1OmcAT5Y8eg5bUPv9qJT4R
+8,20170921,4,"Too Good At Goodbyes - Edit","Sam Smith",29416022,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+12,20170921,4,"Mi Gente","J Balvin",27756639,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+3,20170921,4,"New Rules","Dua Lipa",26215788,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+13,20170921,4,"Look What You Made Me Do","Taylor Swift",25416545,https://open.spotify.com/track/6uFsE1JgZ20EXyU0JQZbUR
+10,20170921,4,1-800-273-8255,Logic,23662238,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+6,20170921,4,"Dusk Till Dawn - Radio Edit",ZAYN,22249014,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+2,20170921,4,Havana,"Camila Cabello",21260578,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+15,20170921,4,"Friends","Justin Bieber",20520619,https://open.spotify.com/track/7nZmah2llfvLDiUjm0kiyz
+9,20170921,4,Silence,Marshmello,20225150,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+8,20170914,3,"Too Good At Goodbyes - Edit","Sam Smith",30706135,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+13,20170914,3,"Look What You Made Me Do","Taylor Swift",29021986,https://open.spotify.com/track/6uFsE1JgZ20EXyU0JQZbUR
+12,20170914,3,"Mi Gente","J Balvin",28657214,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+3,20170914,3,"New Rules","Dua Lipa",25312487,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+10,20170914,3,1-800-273-8255,Logic,22630987,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+15,20170914,3,"Friends","Justin Bieber",21733055,https://open.spotify.com/track/7nZmah2llfvLDiUjm0kiyz
+6,20170914,3,"Dusk Till Dawn - Radio Edit",ZAYN,21296996,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+16,20170914,3,Unforgettable,"French Montana",20349143,https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+2,20170914,3,Havana,"Camila Cabello",20105338,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+17,20170914,3,Feels,"Calvin Harris",19499233,https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+13,20170907,2,"Look What You Made Me Do","Taylor Swift",35206453,https://open.spotify.com/track/6uFsE1JgZ20EXyU0JQZbUR
+12,20170907,2,"Mi Gente","J Balvin",30264888,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+3,20170907,2,"New Rules","Dua Lipa",24864297,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+15,20170907,2,"Friends","Justin Bieber",23215552,https://open.spotify.com/track/7nZmah2llfvLDiUjm0kiyz
+17,20170907,2,Feels,"Calvin Harris",21468609,https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+16,20170907,2,Unforgettable,"French Montana",21214189,https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+14,20170907,2,"Sorry Not Sorry","Demi Lovato",19545702,https://open.spotify.com/track/25C5CowdsfXld2jJanbiex
+2,20170907,2,Havana,"Camila Cabello",19138667,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+18,20170907,2,"Wild Thoughts","DJ Khaled",18911540,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+10,20170907,2,1-800-273-8255,Logic,18729025,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+13,20170831,1,"Look What You Made Me Do","Taylor Swift",44480002,https://open.spotify.com/track/6uFsE1JgZ20EXyU0JQZbUR
+12,20170831,1,"Mi Gente","J Balvin",31601477,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+15,20170831,1,"Friends","Justin Bieber",24755990,https://open.spotify.com/track/7nZmah2llfvLDiUjm0kiyz
+3,20170831,1,"New Rules","Dua Lipa",23833281,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+16,20170831,1,Unforgettable,"French Montana",22480426,https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+17,20170831,1,Feels,"Calvin Harris",22221191,https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+18,20170831,1,"Wild Thoughts","DJ Khaled",21402984,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+19,20170831,1,"Despacito - Remix","Luis Fonsi",20256922,https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+14,20170831,1,"Sorry Not Sorry","Demi Lovato",19294970,https://open.spotify.com/track/25C5CowdsfXld2jJanbiex
+20,20170907,2,"XO TOUR Llif3","Lil Uzi Vert",18201699,https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO
+20,20170831,1,"XO TOUR Llif3","Lil Uzi Vert",18201699,https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO
